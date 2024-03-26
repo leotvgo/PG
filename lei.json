@@ -6,14 +6,14 @@
 
  "sites": [
     {
-	"key": "豆瓣",
-	"name": "雷欧祝大家龙年行大运",
-	"type": 3,
-	"api": "csp_Douban",
-	"searchable": 0,
-	"changeable": 1,
-	"indexs":1,
-	"ext": "./json/douban.json"
+	key": "豆瓣",
+      "name": "雷欧祝大家龙年大吉，龙行龘龘，前程朤朤",
+      "type": 3,"playerType": 1,
+      "api": "csp_Douban",
+      "searchable": 0,
+      "changeable": 1,
+      "indexs": 1,
+      "ext": ./lib/douban.json",
     },
     {
 	"key": "网盘配置",
