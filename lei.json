@@ -140,7 +140,8 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"https://raw.gitmirror.com/leotvgo/PG/main/json/wog.json"},
+      "ext":"https://raw.gitmirror.com/leotvgo/PG/main/json/wog.json",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/spider.jar"},
     {
       "key":"️玩偶弟",
       "name":"LEO｜玩偶弟",
@@ -149,6 +150,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/spider.jar",
       "ext":"https://raw.gitmirror.com/leotvgo/PG/main/json/wod.json"},
     {
       "key":"️玩偶姐",
@@ -158,6 +160,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/spider.jar",
       "ext":"https://raw.gitmirror.com/leotvgo/PG/main/json/woj.json"},
     {
       "key":"️玩偶妹",
@@ -167,6 +170,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/spider.jar",
       "ext":"https://raw.gitmirror.com/leotvgo/PG/main/json/wom.json"},
     {
       "key":"️玩偶歌",
@@ -176,6 +180,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/spider.jar",
       "ext":"https://raw.gitmirror.com/leotvgo/PG/main/json/wou.json"},
     {
       "key":"csp_appys_影盒",
