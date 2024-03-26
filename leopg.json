@@ -600,6 +600,14 @@
       "changeable": 0
       },
     {
+      "key": "Pandalivetv",
+      "name": "LEO┃韩国直播",
+      "type": 3,
+      "api": "csp_Pandalivetv",
+      "searchable": 0,
+      "changeable": 0
+    },
+    {
       "key": "学堂",
       "name": "LEO学堂教育",
       "type": 3,
