@@ -868,7 +868,7 @@
 		],
 		"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu"],
 		"disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img"
-}
+},
 
 {
   "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/spider.jar;md5;a83a50484ea2d7a8aa6b37957a05a805",
