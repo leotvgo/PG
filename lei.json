@@ -14,7 +14,8 @@
       "searchable": 0,
       "changeable": 1,
       "indexs": 1,
-      "ext": "./json/douban.json"
+      "ext": "./json/douban.json",
+      "jar": "https://jihulab.com/leotvgo/duo/-/raw/main/pg.jar"
     },
     {
 	"key": "网盘配置",
@@ -23,7 +24,8 @@
 	"api": "csp_Config",
 	"searchable": 0,
 	"changeable": 0,
-	"ext":"./lib/tokenm.json"
+	"ext":"./lib/tokenm.json",
+	"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/PG/main/pg.jar"
     },
     {
       "key":"Local",
