@@ -14,8 +14,7 @@
       "searchable": 0,
       "changeable": 1,
       "indexs": 1,
-      "ext": "./lib/douban.json",
-      "jar": "https://jihulab.com/leotvgo/duo/-/raw/main/pg.jar"
+      "ext": "./lib/douban.json"
     },
     {
 	"key": "网盘配置",
