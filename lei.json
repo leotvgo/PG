@@ -149,7 +149,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"./json/wod.json"},
+      "ext":"https://notabug.org/Leotv/leipg/raw/main/json/wod.json"},
     {
       "key":"️玩偶姐",
       "name":"LEO｜玩偶姐",
@@ -158,7 +158,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"./json/woj.json"},
+      "ext":"https://notabug.org/Leotv/leipg/raw/main/json/woj.json"},
     {
       "key":"️玩偶妹",
       "name":"LEO｜玩偶妹",
@@ -167,7 +167,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"./json/wom.json"},
+      "ext":"https://notabug.org/Leotv/leipg/raw/main/json/wom.json"},
     {
       "key":"️玩偶歌",
       "name":"LEO｜玩偶OU",
@@ -176,7 +176,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"./json/wou.json"},
+      "ext":"https://notabug.org/Leotv/leipg/raw/main/json/wou.json"},
     {
       "key":"csp_appys_影盒",
       "name":"LEO｜影探主",
