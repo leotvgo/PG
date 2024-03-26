@@ -26,7 +26,7 @@
     },
     {
       "key":"Local",
-      "name":"本地",
+      "name":"LEO｜本地",
       "type":3,
       "api":"csp_Local"},
     {
@@ -326,7 +326,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/lib/我的小站.json"
+      "ext": "./json/我的小站.json"
     },
     {
       "key": "阿里苏苏",
@@ -336,7 +336,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/lib/阿里苏苏.json"
+      "ext": "./json/阿里苏苏.json"
     },
     {
       "key": "云盘论坛",
@@ -346,7 +346,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/lib/云盘论坛.json"
+      "ext": "./json/云盘论坛.json"
     },
     {
       "key": "云盘资源",
@@ -356,7 +356,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/lib/云盘资源.json"
+      "ext": "./json/云盘资源.json"
     },
     {
       "key": "云盘资源分享",
@@ -366,7 +366,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/lib/云盘资源分享.json"
+      "ext": "./json/云盘资源分享.json"
     },
     {
       "key": "土拨鼠搜索",
@@ -376,7 +376,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/lib/土拨鼠搜索.json"
+      "ext": "./json/土拨鼠搜索.json"
     },
     {
       "key": "豆豆飞搜索",
@@ -386,7 +386,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/lib/豆豆飞搜索.json"
+      "ext": "./json/豆豆飞搜索.json"
     },
     {
       "key": "阿里云盘网",
@@ -396,7 +396,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/lib/阿里云盘网.json"
+      "ext": "./json/阿里云盘网.json"
     },
     {
       "key": "Zhaozy",
@@ -578,16 +578,6 @@
       "quickSearch":1,
       "filterable":1},
     {
-      "key":"csp_Czsapp",
-      "name":"LEO｜厂长",
-      "type":3,
-      "api":"csp_Czsapp",
-      "playerType":2,
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"https://www.czys.me"},
-    {
       "key":"农民影视",
       "name":"LEO｜农民",
       "type":3,
@@ -595,13 +585,13 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"https://gitlab.com/leo3975408/tvbox-ouge/-/raw/master/XYQHiker/农民影视.json"},
+      "ext":"./json/民影视.json"},
     {
       "key":"金曼影视",
       "name":"LEO｜金曼",
       "type":3,
-      "api":"https://gitlab.com/leo3975408/tvbox-ouge/-/raw/master/js/nxog.js",
-      "ext":"https://gitlab.com/leo3975408/tvbox-ouge/-/raw/master/js/金曼影视.js"},
+      "api":"./json/nxog.js",
+      "ext":"./json/金曼影视.js"},
     {
       "key":"麻衣呀呼",
       "name":"LEO｜麻衣",
@@ -610,19 +600,13 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"https://gitlab.com/leo3975408/tvbox-ouge/-/raw/master/XBPQ/麻衣呀呼.json"},
-    {
-      "key":"热播之家",
-      "name":"LEO热播",
-      "type":3,
-      "api":"https://gitlab.com/leo3975408/tvbox-ouge/-/raw/master/js/nxog.js",
-      "ext":"https://gitlab.com/leo3975408/tvbox-ouge/-/raw/master/js/热播之家.js"},
+      "ext":"./json/麻衣呀呼.json"},
     {
       "key":"欧帝影院",
       "name":"LEO欧帝",
       "type":3,
-      "api":"https://gitlab.com/leo3975408/tvbox-ouge/-/raw/master/js/nxog.js",
-      "ext":"https://gitlab.com/leo3975408/tvbox-ouge/-/raw/master/js/欧帝影院.js"},
+      "api":"./json/nxog.js",
+      "ext":"./json/欧帝影院.js"},
     {
       "key":"圣城影视",
       "name":"LEO｜圣城",
@@ -631,7 +615,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"https://gitlab.com/leo3975408/tvbox-ouge/-/raw/master/XBPQ/圣城影视.json"},
+      "ext":"./json/圣城影视.json"},
     {
       "key":"New6v",
       "name":"LEONew6V｜磁力",
@@ -689,7 +673,7 @@
       "searchable":0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext":"https://gitlab.com/leo3975408/tvbox-ouge/-/raw/master/Bilibili/学堂教育.json"},
+      "ext":"./json/学堂教育.json"},
     {
       "key": "少儿",
       "name": "少儿合集",
@@ -698,7 +682,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext":"https://gitlab.com/leo3975408/tvbox-ouge/-/raw/master/Bilibili/少儿合集.json"},
+      "ext":"./json/少儿合集.json"},
     {
       "key": "小学课堂",
       "name": "小学课堂",
@@ -707,7 +691,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext":"https://gitlab.com/leo3975408/tvbox-ouge/-/raw/master/Bilibili/小学课堂.json"},
+      "ext":"./json/小学课堂.json"},
     { 
       "key": "初中课堂",
       "name": "初中课堂",
@@ -716,7 +700,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext":"https://gitlab.com/leo3975408/tvbox-ouge/-/raw/master/Bilibili/初中课堂.json"},
+      "ext":"./json/初中课堂.json"},
     {
       "key": "高中课堂",
       "name": "高中课堂",
@@ -725,7 +709,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext":"https://gitlab.com/leo3975408/tvbox-ouge/-/raw/master/Bilibili/高中课堂.json"},
+      "ext":"./json/高中课堂.json"},
     {
       "key":"小灯塔科学",
       "name":"🌏小灯塔科学",
@@ -734,7 +718,7 @@
       "searchable":0,
       "quickSearch":1,
       "filterable":1,
-      "ext":"https://gitlab.com/leo3975408/tvbox-ouge/-/raw/master/Bilibili/小灯塔科学.json"},
+      "ext":"./json/小灯塔科学.json"},
     {
       "key":"小灯塔地理",
       "name":"🌏小灯塔地理",
@@ -743,7 +727,7 @@
       "searchable":0,
       "quickSearch":1,
       "filterable":1,
-      "ext":"https://gitlab.com/leo3975408/tvbox-ouge/-/raw/master/Bilibili/小灯塔地理.json"},
+      "ext":"./json/小灯塔地理.json"},
     {
       "key":"小灯塔百科",
       "name":"🌏小灯塔百科",
@@ -752,7 +736,7 @@
       "searchable":0,
       "quickSearch":1,
       "filterable":1,
-      "ext":"https://gitlab.com/leo3975408/tvbox-ouge/-/raw/master/Bilibili/小灯塔百科.json"},
+      "ext":"./json/小灯塔百科.json"},
     {
       "key":"小灯塔国学",
       "name":"🌏小灯塔国学",
@@ -761,7 +745,7 @@
       "searchable":0,
       "quickSearch":1,
       "filterable":1,
-      "ext":"https://gitlab.com/leo3975408/tvbox-ouge/-/raw/master/Bilibili/小灯塔国学.json"},
+      "ext":"./json/小灯塔国学.json"},
     {
       "key":"儿童英语",
       "name":" 🧒儿童｜英语",
@@ -770,7 +754,7 @@
       "searchable":0,
       "quickSearch":1,
       "filterable":1,
-      "ext":"https://gitlab.com/leo3975408/tvbox-ouge/-/raw/master/Bilibili/儿童英语.json"},
+      "ext":"./json/儿童英语.json"},
     {
       "key":"儿童硬笔",
       "name":" 🧒儿童｜硬笔",
@@ -779,7 +763,7 @@
       "searchable":0,
       "quickSearch":1,
       "filterable":1,
-      "ext":"https://gitlab.com/leo3975408/tvbox-ouge/-/raw/master/Bilibili/儿童硬笔.json"},
+      "ext":"./json/儿童硬笔.json"},
     {
       "key":"儿童编程",
       "name":" 🧒儿童｜编程","type":3,
@@ -787,7 +771,7 @@
       "searchable":0,
       "quickSearch":1,
       "filterable":1,
-      "ext":"https://gitlab.com/leo3975408/tvbox-ouge/-/raw/master/Bilibili/儿童编程.json"},
+      "ext":"./json/儿童编程.json"},
     {
       "key": "球类",
       "name": "⚽️球类合集",
@@ -796,19 +780,19 @@
       "searchable":0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext":"https://gitlab.com/leo3975408/tvbox-ouge/-/raw/master/Bilibili/球类合集.json"},
+      "ext":"./json/球类合集.json"},
     {
       "key":"drpy_js_88看球",
       "name":"⚽88看球",
       "type":3,
-      "api":"https://gitlab.com/leo3975408/tvbox-ouge/-/raw/master/js/nxog.js",
+      "api":"./json/nxog.js",
       "ext":"https://gitlab.com/leo3975408/tvbox-ouge/-/raw/master/js/1.js"},
     {
       "key":"drpy_js_JRKAN直播",
       "name":"⚽JRKAN直播",
       "type":3,
-      "api":"https://gitlab.com/leo3975408/tvbox-ouge/-/raw/master/js/nxog.js",
-      "ext":"https://gitlab.com/leo3975408/tvbox-ouge/-/raw/master/js/3.js"},
+      "api":"./json/nxog.js",
+      "ext":"./json/3.js"},
     {
       "key": "球星",
       "name": "⚽️球星合集",
@@ -817,7 +801,7 @@
       "searchable":0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext":"https://gitlab.com/leo3975408/tvbox-ouge/-/raw/master/Bilibili/球星合集.json"},
+      "ext":"./json/球星合集.json"},
     {
       "key":"短剧网",
       "name":"短剧1",
@@ -843,7 +827,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
-      "ext":"https://gitlab.com/leo3975408/tvbox-ouge/-/raw/master/XBPQ/维奇动漫.json"},
+      "ext":"./json/维奇动漫.json"},
     {
       "key":"动漫巴士",
       "name":"巴士动漫","type":3,
@@ -851,7 +835,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
-      "ext":"https://gitlab.com/leo3975408/tvbox-ouge/-/raw/master/XBPQ/动漫巴士.json"}, 
+      "ext":"./json/动漫巴士.json"}, 
     {
       "key":"樱花动漫",
       "name":"樱花动漫",
