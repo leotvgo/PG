@@ -13,11 +13,11 @@
 	"searchable": 0,
 	"changeable": 1,
 	"indexs":1,
-	"ext": "./lib/douban.json"
+	"ext": "./json/douban.json"
     },
     {
 	"key": "网盘配置",
-	"name": "云盘配置",
+	"name": "网盘登录",
 	"type": 3,
 	"api": "csp_Config",
 	"searchable": 0,
