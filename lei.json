@@ -1,6 +1,8 @@
 {
   "spider": "./pg.jar",
-   "wallpaper": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/duo/main//Biz/3.jpeg",
+   "wallpaper": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/duo/main//Biz/3.jpeg","warningText": "雷欧提示:
+接口软件永远免费 
+长期维护切勿贩卖",
 
  "sites": [
     {
@@ -138,8 +140,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"https://raw.gitmirror.com/leotvgo/PG/main/json/wog.json",
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/spider.jar"},
+      "ext":"./json/wog.json"},
     {
       "key":"️玩偶弟",
       "name":"LEO｜玩偶弟",
@@ -148,8 +149,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/spider.jar",
-      "ext":"https://raw.gitmirror.com/leotvgo/PG/main/json/wod.json"},
+      "ext":"./json/wod.json"},
     {
       "key":"️玩偶姐",
       "name":"LEO｜玩偶姐",
@@ -158,8 +158,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/spider.jar",
-      "ext":"https://raw.gitmirror.com/leotvgo/PG/main/json/woj.json"},
+      "ext":"./json/woj.json"},
     {
       "key":"️玩偶妹",
       "name":"LEO｜玩偶妹",
@@ -168,8 +167,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/spider.jar",
-      "ext":"https://raw.gitmirror.com/leotvgo/PG/main/json/wom.json"},
+      "ext":"./json/wom.json"},
     {
       "key":"️玩偶歌",
       "name":"LEO｜玩偶OU",
@@ -178,8 +176,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/spider.jar",
-      "ext":"https://raw.gitmirror.com/leotvgo/PG/main/json/wou.json"},
+      "ext":"./json/wou.json"},
     {
       "key":"csp_appys_影盒",
       "name":"LEO｜影探主",
@@ -298,7 +295,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/spider.jar",
       "ext": "./json/云盘搜索.json"
     },
    {
@@ -309,7 +305,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/spider.jar",
       "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
     },
    {
@@ -332,7 +327,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/spider.jar",
       "ext": "./json/我的小站.json"
     },
     {
@@ -343,7 +337,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/spider.jar",
       "ext": "./json/阿里苏苏.json"
     },
     {
@@ -354,7 +347,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/spider.jar",
       "ext": "./json/云盘论坛.json"
     },
     {
@@ -365,7 +357,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/spider.jar",
       "ext": "./json/云盘资源.json"
     },
     {
@@ -376,7 +367,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/spider.jar",
       "ext": "./json/云盘资源分享.json"
     },
     {
@@ -387,7 +377,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/spider.jar",
       "ext": "./json/土拨鼠搜索.json"
     },
     {
@@ -398,7 +387,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/spider.jar",
       "ext": "./json/豆豆飞搜索.json"
     },
     {
@@ -409,7 +397,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/spider.jar",
       "ext": "./json/阿里云盘网.json"
     },
     {
@@ -420,7 +407,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/spider.jar",
       "ext": "{\"username\":\"Pizazz\",\"password\":\"xiaosage\",\"searchurl\":\"http://zhaoziyuan.pw/so?filename={wd}\"}"
     },
    {
