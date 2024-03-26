@@ -7,15 +7,14 @@
  "sites": [
     {
       "key": "豆瓣",
-      "name": "雷欧祝大家龙年大吉，龙行龘龘，前程朤朤",
+      "name": "雷欧祝大家龙年行大运",
       "type": 3,
       "playerType": 1,
       "api": "csp_Douban",
       "searchable": 0,
       "changeable": 1,
       "indexs": 1,
-      "ext": "./json/douban.json",
-      "jar": "./json/pg.jar"
+      "ext": "./lib/douban.json",
     },
     {
 	"key": "网盘配置",
@@ -846,7 +845,7 @@
       "ext":"分类url:https://www.857yhdm.com/show/{cateId}--{by}------{catePg}---{year}.html,分类:日本动漫$ribendongman#国产动漫$guochandongman#动漫电影$dongmandianying#欧美动漫$omeidongman"},
     {
       "key":"LEO",
-      "name":"关注LEO雷欧",
+      "name":"关注雷欧API",
       "type":3,
       "api":"",
       "searchable":1,
