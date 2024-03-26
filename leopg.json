@@ -110,7 +110,8 @@
        "timeout": 15,
        "searchable": 1,
        "quickSearch": 1,
-       "changeable": 1
+       "changeable": 1,
+       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711305426162/fan.txt"
     },
     {
        "key": "苹果",
@@ -119,7 +120,8 @@
        "api": "csp_LiteApple",
        "searchable": 1,
        "quickSearch": 1,
-       "changeable": 1
+       "changeable": 1,
+       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711305426162/fan.txt"
     },
     {
 	"key": "NanGua",
