@@ -567,8 +567,9 @@
       "api": "csp_Yinyuetai",
       "searchable": 1,
       "changeable": 0
-      }]
-{
+      }
+  ],
+
 "spider": 
 "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/spider.jar;md5;a83a50484ea2d7a8aa6b37957a05a805",
   "sites": [
