@@ -140,7 +140,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"./json/wog.json"},
+      "ext":"https://gitlab.com/leo3975408/tvbox-ouge/-/raw/master/json/wog.json"},
     {
       "key":"️玩偶弟",
       "name":"LEO｜玩偶弟",
@@ -149,7 +149,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"https://notabug.org/Leotv/leipg/raw/main/json/wod.json"},
+      "ext":"https://gitlab.com/leo3975408/tvbox-ouge/-/raw/master/json/wod.json"},
     {
       "key":"️玩偶姐",
       "name":"LEO｜玩偶姐",
@@ -158,7 +158,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"https://notabug.org/Leotv/leipg/raw/main/json/woj.json"},
+      "ext":"https://gitlab.com/leo3975408/tvbox-ouge/-/raw/master/json/woj.json"},
     {
       "key":"️玩偶妹",
       "name":"LEO｜玩偶妹",
@@ -167,7 +167,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"https://notabug.org/Leotv/leipg/raw/main/json/wom.json"},
+      "ext":"https://gitlab.com/leo3975408/tvbox-ouge/-/raw/master/json/wom.json"},
     {
       "key":"️玩偶歌",
       "name":"LEO｜玩偶OU",
@@ -176,7 +176,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"https://notabug.org/Leotv/leipg/raw/main/json/wou.json"},
+      "ext":"https://gitlab.com/leo3975408/tvbox-ouge/-/raw/master/json/wou.json"},
     {
       "key":"csp_appys_影盒",
       "name":"LEO｜影探主",
