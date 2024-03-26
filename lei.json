@@ -6,9 +6,10 @@
 
  "sites": [
     {
-	key": "豆瓣",
+      "key": "豆瓣",
       "name": "雷欧祝大家龙年大吉，龙行龘龘，前程朤朤",
-      "type": 3,"playerType": 1,
+      "type": 3,
+      "playerType": 1,
       "api": "csp_Douban",
       "searchable": 0,
       "changeable": 1,
